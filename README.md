@@ -1,1 +1,1 @@
-# Prouecto de MLOps
+# Proyecto de MLOps
